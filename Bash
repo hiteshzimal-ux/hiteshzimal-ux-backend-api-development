@@ -1,0 +1,5 @@
+mkdir backend-api-development
+cd backend-api-development
+
+npm install
+npm run dev
